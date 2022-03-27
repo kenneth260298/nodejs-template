@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99be095d.chunk.css",
+    "main.js": "/static/js/main.07015c65.chunk.js",
+    "main.js.map": "/static/js/main.07015c65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.790b714f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.790b714f.js.map",
+    "static/css/2.242f24fe.chunk.css": "/static/css/2.242f24fe.chunk.css",
+    "static/js/2.581b74a7.chunk.js": "/static/js/2.581b74a7.chunk.js",
+    "static/js/2.581b74a7.chunk.js.map": "/static/js/2.581b74a7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dde54d202223840d06ad4204b3e617a8.js": "/precache-manifest.dde54d202223840d06ad4204b3e617a8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.99be095d.chunk.css.map": "/static/css/main.99be095d.chunk.css.map",
+    "static/js/2.581b74a7.chunk.js.LICENSE": "/static/js/2.581b74a7.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ionicons.css": "/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790b714f.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.581b74a7.chunk.js",
+    "static/css/main.99be095d.chunk.css",
+    "static/js/main.07015c65.chunk.js"
+  ]
+}
